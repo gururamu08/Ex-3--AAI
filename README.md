@@ -34,8 +34,11 @@
 
 
 ## Program:
-<H3>ENTER YOUR NAME: GURUMOORTHI R</H3>
-<H3>ENTER YOUR REGISTER NO: 212222230042</H3>
+```
+NAME: GURUMOORTHI R
+REGISTER NO: 212222230042
+```
+
 ```
 #importing required libraries
 pip install pgmpy
@@ -121,9 +124,9 @@ print(query_result)
 
 ## Output:
 
-![image](https://github.com/user-attachments/assets/cbd3ba7a-b871-400c-83ce-e891daf64531)
+![image](https://github.com/user-attachments/assets/58682ffc-579f-4781-9d32-8501fc5c32d8)
 
-![image](https://github.com/user-attachments/assets/f840df69-a877-491f-99a5-e653071d8dba)
+![image](https://github.com/user-attachments/assets/18523587-49d5-47af-b5e3-51e708cba14b)
 
 
 
